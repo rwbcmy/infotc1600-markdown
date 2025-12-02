@@ -14,4 +14,4 @@ Hello! Here are some of my favorite motorcycles. Click on one below to learn mor
 |--------------------|---------------------|----------------|
 | Yamaha YZF-R1      | 998                 | Track-focused  |
 | BMW S1000RR        | 999                 | Tech-focused   |
-| Kawasaki ZX-10R    | 998                 | All-around     |
+| Honda CBR 1000RR   | 998                 | All-around     |
